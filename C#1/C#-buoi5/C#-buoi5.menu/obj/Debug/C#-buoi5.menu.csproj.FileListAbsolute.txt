@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\C#1\C#-buoi5\C#-buoi5.menu\bin\Debug\C#-buoi5.menu.exe.config
+C:\Users\Dell\Desktop\C#1\C#-buoi5\C#-buoi5.menu\bin\Debug\C#-buoi5.menu.exe
+C:\Users\Dell\Desktop\C#1\C#-buoi5\C#-buoi5.menu\bin\Debug\C#-buoi5.menu.pdb
+C:\Users\Dell\Desktop\C#1\C#-buoi5\C#-buoi5.menu\obj\Debug\C#-buoi5.menu.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\C#1\C#-buoi5\C#-buoi5.menu\obj\Debug\C#-buoi5.menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\C#1\C#-buoi5\C#-buoi5.menu\obj\Debug\C#-buoi5.menu.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#1\C#-buoi5\C#-buoi5.menu\obj\Debug\C#-buoi5.menu.exe
+C:\Users\Dell\Desktop\C#1\C#-buoi5\C#-buoi5.menu\obj\Debug\C#-buoi5.menu.pdb

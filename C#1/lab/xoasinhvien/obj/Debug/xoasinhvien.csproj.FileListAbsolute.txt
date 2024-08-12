@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\C#1\lab\xoasinhvien\bin\Debug\xoasinhvien.exe.config
+C:\Users\Dell\Desktop\C#1\lab\xoasinhvien\bin\Debug\xoasinhvien.exe
+C:\Users\Dell\Desktop\C#1\lab\xoasinhvien\bin\Debug\xoasinhvien.pdb
+C:\Users\Dell\Desktop\C#1\lab\xoasinhvien\obj\Debug\xoasinhvien.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\C#1\lab\xoasinhvien\obj\Debug\xoasinhvien.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\C#1\lab\xoasinhvien\obj\Debug\xoasinhvien.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#1\lab\xoasinhvien\obj\Debug\xoasinhvien.exe
+C:\Users\Dell\Desktop\C#1\lab\xoasinhvien\obj\Debug\xoasinhvien.pdb

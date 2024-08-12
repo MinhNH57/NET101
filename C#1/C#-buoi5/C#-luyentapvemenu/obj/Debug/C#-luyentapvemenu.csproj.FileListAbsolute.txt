@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\C#1\C#-buoi5\C#-luyentapvemenu\bin\Debug\C#-luyentapvemenu.exe.config
+C:\Users\Dell\Desktop\C#1\C#-buoi5\C#-luyentapvemenu\bin\Debug\C#-luyentapvemenu.exe
+C:\Users\Dell\Desktop\C#1\C#-buoi5\C#-luyentapvemenu\bin\Debug\C#-luyentapvemenu.pdb
+C:\Users\Dell\Desktop\C#1\C#-buoi5\C#-luyentapvemenu\obj\Debug\C#-luyentapvemenu.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\C#1\C#-buoi5\C#-luyentapvemenu\obj\Debug\C#-luyentapvemenu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\C#1\C#-buoi5\C#-luyentapvemenu\obj\Debug\C#-luyentapvemenu.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#1\C#-buoi5\C#-luyentapvemenu\obj\Debug\C#-luyentapvemenu.exe
+C:\Users\Dell\Desktop\C#1\C#-buoi5\C#-luyentapvemenu\obj\Debug\C#-luyentapvemenu.pdb

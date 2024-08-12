@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\C#1\lab\lab4-1\bin\Debug\lab4-1.exe.config
+C:\Users\Dell\Desktop\C#1\lab\lab4-1\bin\Debug\lab4-1.exe
+C:\Users\Dell\Desktop\C#1\lab\lab4-1\bin\Debug\lab4-1.pdb
+C:\Users\Dell\Desktop\C#1\lab\lab4-1\obj\Debug\lab4-1.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\C#1\lab\lab4-1\obj\Debug\lab4-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\C#1\lab\lab4-1\obj\Debug\lab4-1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#1\lab\lab4-1\obj\Debug\lab4-1.exe
+C:\Users\Dell\Desktop\C#1\lab\lab4-1\obj\Debug\lab4-1.pdb

@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\C#1\C#-buoi8\baitaplist\bin\Debug\baitaplist.exe.config
+C:\Users\Dell\Desktop\C#1\C#-buoi8\baitaplist\bin\Debug\baitaplist.exe
+C:\Users\Dell\Desktop\C#1\C#-buoi8\baitaplist\bin\Debug\baitaplist.pdb
+C:\Users\Dell\Desktop\C#1\C#-buoi8\baitaplist\obj\Debug\baitaplist.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\C#1\C#-buoi8\baitaplist\obj\Debug\baitaplist.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\C#1\C#-buoi8\baitaplist\obj\Debug\baitaplist.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#1\C#-buoi8\baitaplist\obj\Debug\baitaplist.exe
+C:\Users\Dell\Desktop\C#1\C#-buoi8\baitaplist\obj\Debug\baitaplist.pdb

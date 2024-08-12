@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\C#1\ontap\ontap\bin\Debug\ontap.exe.config
+C:\Users\Dell\Desktop\C#1\ontap\ontap\bin\Debug\ontap.exe
+C:\Users\Dell\Desktop\C#1\ontap\ontap\bin\Debug\ontap.pdb
+C:\Users\Dell\Desktop\C#1\ontap\ontap\obj\Debug\ontap.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\C#1\ontap\ontap\obj\Debug\ontap.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\C#1\ontap\ontap\obj\Debug\ontap.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#1\ontap\ontap\obj\Debug\ontap.exe
+C:\Users\Dell\Desktop\C#1\ontap\ontap\obj\Debug\ontap.pdb

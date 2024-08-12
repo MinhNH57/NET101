@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\C#1\buoi-cuoi\buoi-cuoi\bin\Debug\buoi-cuoi.exe.config
+C:\Users\Dell\Desktop\C#1\buoi-cuoi\buoi-cuoi\bin\Debug\buoi-cuoi.exe
+C:\Users\Dell\Desktop\C#1\buoi-cuoi\buoi-cuoi\bin\Debug\buoi-cuoi.pdb
+C:\Users\Dell\Desktop\C#1\buoi-cuoi\buoi-cuoi\obj\Debug\buoi-cuoi.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\C#1\buoi-cuoi\buoi-cuoi\obj\Debug\buoi-cuoi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\C#1\buoi-cuoi\buoi-cuoi\obj\Debug\buoi-cuoi.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#1\buoi-cuoi\buoi-cuoi\obj\Debug\buoi-cuoi.exe
+C:\Users\Dell\Desktop\C#1\buoi-cuoi\buoi-cuoi\obj\Debug\buoi-cuoi.pdb

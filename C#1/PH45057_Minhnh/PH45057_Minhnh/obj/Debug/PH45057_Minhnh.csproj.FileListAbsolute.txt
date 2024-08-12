@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\PH45057_Minhnh\PH45057_Minhnh\bin\Debug\PH45057_Minhnh.exe.config
+C:\Users\Dell\Desktop\PH45057_Minhnh\PH45057_Minhnh\bin\Debug\PH45057_Minhnh.exe
+C:\Users\Dell\Desktop\PH45057_Minhnh\PH45057_Minhnh\bin\Debug\PH45057_Minhnh.pdb
+C:\Users\Dell\Desktop\PH45057_Minhnh\PH45057_Minhnh\obj\Debug\PH45057_Minhnh.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\PH45057_Minhnh\PH45057_Minhnh\obj\Debug\PH45057_Minhnh.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\PH45057_Minhnh\PH45057_Minhnh\obj\Debug\PH45057_Minhnh.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\PH45057_Minhnh\PH45057_Minhnh\obj\Debug\PH45057_Minhnh.exe
+C:\Users\Dell\Desktop\PH45057_Minhnh\PH45057_Minhnh\obj\Debug\PH45057_Minhnh.pdb

@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\C#1\C#-buoi10\C#-buoi10\bin\Debug\C#-buoi10.exe.config
+C:\Users\Dell\Desktop\C#1\C#-buoi10\C#-buoi10\bin\Debug\C#-buoi10.exe
+C:\Users\Dell\Desktop\C#1\C#-buoi10\C#-buoi10\bin\Debug\C#-buoi10.pdb
+C:\Users\Dell\Desktop\C#1\C#-buoi10\C#-buoi10\obj\Debug\C#-buoi10.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\C#1\C#-buoi10\C#-buoi10\obj\Debug\C#-buoi10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\C#1\C#-buoi10\C#-buoi10\obj\Debug\C#-buoi10.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C#1\C#-buoi10\C#-buoi10\obj\Debug\C#-buoi10.exe
+C:\Users\Dell\Desktop\C#1\C#-buoi10\C#-buoi10\obj\Debug\C#-buoi10.pdb
